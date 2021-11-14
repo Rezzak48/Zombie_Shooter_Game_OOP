@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\midou\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\midou\\.nuget\\packages"
+    ]
+  }
+}

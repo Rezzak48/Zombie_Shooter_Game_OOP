@@ -1,0 +1,13 @@
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\bin\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.exe
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\bin\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.deps.json
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\bin\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.runtimeconfig.json
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\bin\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.runtimeconfig.dev.json
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\bin\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.dll
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\bin\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.pdb
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.csproj.AssemblyReference.cache
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.AssemblyInfoInputs.cache
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.AssemblyInfo.cs
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.csproj.CoreCompileInputs.cache
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.dll
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.pdb
+C:\Users\midou\source\repos\Shoot_Zombies_Game_OOP\obj\Debug\netcoreapp3.1\Shoot_Zombies_Game_OOP.genruntimeconfig.cache

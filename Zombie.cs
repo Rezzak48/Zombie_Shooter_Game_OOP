@@ -58,9 +58,25 @@ namespace Shoot_Zombies_Game_OOP
             int targetX = x;
             int targetY = y;
             int direction = rnd.Next(4);
-            //  switch(direction)
-            //  {
-            //  }
+            switch (direction)
+            {
+                case (0):
+                    targetX--;
+                    break;
+
+                case (1):
+                    targetY++;
+                    break;
+
+                case (2):
+                    targetX++;
+                    break;
+
+                case (3):
+                    targetY--;
+                    break;
+            }
+            //To DO
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace Shoot_Zombies_Game_OOP
@@ -16,6 +17,16 @@ namespace Shoot_Zombies_Game_OOP
             for (int i = 0; i < zombies.Length; i++)
             {
                 zombies[i] = new Zombie();
+            }
+        }
+
+        public void UploadMap()
+        {
+            string path = "map.txt";
+            string[] allLines = File.ReadAllLines(path);
+            // map = new string[allLines.Length];
+            //   for (int i = 0; i < length; i++)
+            {
             }
         }
     }

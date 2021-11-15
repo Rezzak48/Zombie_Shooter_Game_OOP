@@ -76,7 +76,12 @@ namespace Shoot_Zombies_Game_OOP
                     targetY--;
                     break;
             }
-            //To DO
+            //To DO: Check empty Field :
+            if (game.IsEmpty(targetX, targetY))
+            {
+                x = targetX;
+                y = targetY;
+            }
         }
     }
 }

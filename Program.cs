@@ -7,14 +7,11 @@ namespace Shoot_Zombies_Game_OOP
     {
         private static void Main(string[] args)
         {
+            Game gm = new Game();
             string path = "map.txt";
-            string[] allLines = File.ReadAllLines(path);
-            string[] characters = new string[10];
-            for (int i = 0; i < allLines.Length; i++)
-            {
-                string[] characters = allLines[i].Split()
-            }
-            // char[,] map =
+            gm.UploadMap();
+            gm.SpawnZombies(5);
+            gm.RunGame();
             Console.ReadLine();
         }
     }
